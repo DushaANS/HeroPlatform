@@ -1,0 +1,4 @@
+repository "HeroPlatform@Dusha_ada@cloud"
+  path "/"
+    br "/main"
+    co "/main"
